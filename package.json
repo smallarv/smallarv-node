@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is practice project for learning Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallarv/smallarv-node.git"
+  },
+  "keywords": [
+    "smallarv"
+  ],
+  "author": "smallarv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smallarv/smallarv-node/issues"
+  },
+  "homepage": "https://github.com/smallarv/smallarv-node#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jade": "^1.11.0",
+    "pug": "^2.0.3"
+  }
+}
